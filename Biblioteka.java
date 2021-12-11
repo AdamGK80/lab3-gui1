@@ -28,10 +28,10 @@ public class Biblioteka extends JFrame {
 	public final void initUI(final Biblioteka bib) {
 		
         //Tytul okna
-        //setTitle("Biblioteka");
+        setTitle("Biblioteka");
         
         //Rozmiar okna
-        //setSize(600, 700);
+        setSize(600, 700);
         
         // Ustawienie lokalizacji okna wzgledem innego komponentu
         //setLocationRelativeTo(null);
